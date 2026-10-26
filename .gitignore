@@ -1,0 +1,12 @@
+# Entorno virtual de Python
+.venv/
+
+# Secretos: claves de API y contraseñas (NUNCA a GitHub)
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuración local del editor
+.vscode/
